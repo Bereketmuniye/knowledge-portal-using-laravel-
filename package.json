@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "npm run watch-poll",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.6.8",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.7.2",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@ably/laravel-echo": "^1.0.4",
+        "ably": "^1.2.50",
+        "bootstrap": "^5.3.3",
+        "jquery": "^3.7.1",
+        "laravel-echo": "^1.16.1",
+        "popper.js": "^1.16.1",
+        "pusher-js": "^8.4.0-rc2"
+    }
+}
