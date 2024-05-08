@@ -4,9 +4,9 @@ knowledge portal  System
 knowledge portal  System is a web application based on Laravel which keeps track of organization data. It is the system you use to document the disscussion for your employees work customer support for new employeee.
 
 Major Technologies
-        HTML5
-        CSS
-        JAVASCRIPT
+    - HTML5
+    - CSS
+    - JAVASCRIPT
         BOOTSTRAP
         PHP
         LARAVEL
