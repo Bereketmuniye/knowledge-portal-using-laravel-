@@ -36,6 +36,8 @@ $ php artisan serve
 
 **Screenshots**
 
+![Screenshot (39)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/f3234e41-a80e-4ece-adda-bc8b054c4848)
+
 
 
 
