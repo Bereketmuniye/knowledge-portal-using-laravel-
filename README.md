@@ -42,6 +42,38 @@ $ php artisan serve
 ![Screenshot (31)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/af876c75-12bf-43be-9b60-0c3ac3db1e9f)
 
 
+![Screenshot (32)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/84379837-dfab-4522-a386-8a6b7a1801a2)
+
+
+![Screenshot (33)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/6c4fe977-77fa-407d-9933-dbc2e7209450)
+
+
+![Screenshot (34)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/fbc86deb-fea2-4cea-883b-6f4cff7adbf0)
+
+
+
+
+![Screenshot (35)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/63d571a2-2045-4693-96ac-032c63a2c690)
+
+
+
+![Screenshot (36)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/88536703-9b3c-4b14-aa64-40835b7a87ca)
+
+
+
+
+![Screenshot (37)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/75808350-fa2c-4a6e-a93f-82783f6c43a3)
+
+
+
+
+![Screenshot (38)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/287a00d2-4248-4329-981a-44a44371a637)
+
+
+
+
+
+
 
 
 
