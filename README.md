@@ -36,38 +36,33 @@ $ php artisan serve
 
 **Screenshots**
 
-![Screenshot (39)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/f3234e41-a80e-4ece-adda-bc8b054c4848)
+![Screenshot (39)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/d7087ab8-9cda-440b-aef5-d89d404eb5af)
 
 
-![Screenshot (31)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/af876c75-12bf-43be-9b60-0c3ac3db1e9f)
+![Screenshot (31)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/9f2f85bb-bab0-4ae9-8ffb-bbfb07b52aa6)
 
 
-![Screenshot (32)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/84379837-dfab-4522-a386-8a6b7a1801a2)
+![Screenshot (32)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/8f13b0fe-e685-4c86-9222-f3db3e6d71a6)
 
 
-![Screenshot (33)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/6c4fe977-77fa-407d-9933-dbc2e7209450)
+![Screenshot (33)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/930c3571-06c2-4a0e-a60c-4a71e4e3a126)
 
 
-![Screenshot (34)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/fbc86deb-fea2-4cea-883b-6f4cff7adbf0)
+![Screenshot (34)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/10d93b25-caf6-419d-a237-90e3526eced0)
 
 
+![Screenshot (35)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/9e0310d9-002e-4fe9-b11e-3600bc5fba72)
 
 
-![Screenshot (35)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/63d571a2-2045-4693-96ac-032c63a2c690)
+![Screenshot (36)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/aa6276c7-6791-451b-9efe-e6547856e334)
 
 
-
-![Screenshot (36)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/88536703-9b3c-4b14-aa64-40835b7a87ca)
-
+![Screenshot (37)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/84b84775-76b1-4a4d-ab62-1b7ef36283d9)
 
 
-
-![Screenshot (37)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/75808350-fa2c-4a6e-a93f-82783f6c43a3)
-
+![Screenshot (38)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/c3bc64e7-f6a4-4b24-93d8-dcb5be997cab)
 
 
-
-![Screenshot (38)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/287a00d2-4248-4329-981a-44a44371a637)
 
 
 
