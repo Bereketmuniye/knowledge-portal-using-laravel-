@@ -39,6 +39,9 @@ $ php artisan serve
 ![Screenshot (39)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/f3234e41-a80e-4ece-adda-bc8b054c4848)
 
 
+![Screenshot (31)](https://github.com/Bereketmuniye/knowledge-portal-using-laravel-/assets/107196062/af876c75-12bf-43be-9b60-0c3ac3db1e9f)
+
+
 
 
 
